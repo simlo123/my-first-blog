@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'tpx_#kcp(z&zvjlqzdecis9g#x5cq&w7s9sb!^9*@sh+r(sstj'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'szymon_2.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'simlo.pythonanywhere.com']
 
 
 # Application definition
