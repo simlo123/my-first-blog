@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'tpx_#kcp(z&zvjlqzdecis9g#x5cq&w7s9sb!^9*@sh+r(sstj'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 ALLOWED_HOSTS = ['127.0.0.1', 'simlo.pythonanywhere.com']
 
 
